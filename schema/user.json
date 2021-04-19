@@ -1,0 +1,10 @@
+{
+    "first_name": "John",
+    "last_name": "Doe",
+    "birth_day": "1990-05-23",
+    "email": "jhondoe@yopmail.com",
+    "active": 1,
+    "created_at": "",
+    "updated_at": "",
+    "deleted_at": ""
+}
